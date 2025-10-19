@@ -2,7 +2,7 @@
 
 This project conduct an in-depth Exploratory Data Analysis (EDA) on a Home Loan dataset. The objective is to understand the underlying structure, trends, and relationships in the data through data cleaning, visualization, and statistical analysis. This initial investigation is essential for uncovering patterns that may influence loan approvals and risk assessment. 
 Financial institutions rely on historical loan data to assess creditworthiness and refine their lending practices. The Home Loan dataset contains key information on applicants, such as income, employment status, credit history, and property details, along with the corresponding loan outcomes.
----
+_________
 
 ## Project Objective
 The primary goal of this project is to perform a thorough exploratory analysis of the Home Loan dataset. Specific objectives include:
