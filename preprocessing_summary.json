@@ -1,0 +1,34 @@
+{
+  "original_shape": [
+    578,
+    12
+  ],
+  "final_shape": [
+    578,
+    16
+  ],
+  "selected_features": [
+    "Credit_History",
+    "Property_Area_Semiurban",
+    "Married",
+    "DTI",
+    "Education",
+    "TotalIncome",
+    "CoapplicantIncome"
+  ],
+  "engineered_features": [
+    "TotalIncome",
+    "DTI",
+    "EMI"
+  ],
+  "train_samples": 346,
+  "val_samples": 116,
+  "test_samples": 116,
+  "scaling_method": "StandardScaler",
+  "outlier_treatment": "IQR_capping",
+  "log_transformed": [
+    "ApplicantIncome",
+    "CoapplicantIncome",
+    "LoanAmount"
+  ]
+}
